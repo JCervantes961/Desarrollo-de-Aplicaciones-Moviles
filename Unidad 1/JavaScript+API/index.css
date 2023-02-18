@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://galaxiastarwars.files.wordpress.com/2015/04/cropped-puuerhquwef08qw1.jpg);
+}
+
+.row{
+    font-size: larger;
+    color: yellow;
+    font-family: fantasy;
+}
+
+.Personaje{
+    background-color: rgba(255, 0, 0, 0.507);
+    text-align: center;
+    padding: 1em;
+    margin: 1em;
+    border: 10px double black;
+}
